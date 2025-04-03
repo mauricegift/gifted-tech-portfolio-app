@@ -1,0 +1,7 @@
+{
+  "plugin": {
+    "packageName": "co.median.android.plugins.lottie",
+    "classInstance": "LottiePlugin",
+    "pluginName": "lottie-plugin"
+  }
+}
