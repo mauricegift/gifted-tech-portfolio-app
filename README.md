@@ -1,0 +1,1 @@
+### Download the app from **[RELEASES SECTION](https://github.com/mauricegift/gifted-tech-portfolio-app/releases/tag/giftedapk)** or from **[THIS DIRECT LINK](https://github.com/mauricegift/gifted-tech-portfolio-app/releases/download/giftedapk/GiftedTech.apk)**
